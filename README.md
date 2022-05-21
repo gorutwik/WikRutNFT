@@ -1,15 +1,17 @@
 # Basic Sample Hardhat Project
+Project Name
+WikRutNFT Dapp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Project Code
+Repo - https://github.com/gorutwik/WikRutNFT
 
-Try running some of the following tasks:
+Working App
+Website (WIP) - https://wik-rut-nft.vercel.app/
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Recorded Video
+Youtube - https://youtu.be/vRTFd8xIKWc
+
+Contact Info
+Discord ID - wikrut#0382
+Email ID - gorutwik@gmail.com
+Gitcoin - gorutwik
